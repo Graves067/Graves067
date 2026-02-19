@@ -11,13 +11,24 @@
 - 🔭 I'm currently working on [Dice-Number-Recognition](https://github.com/Graves067/Dice-Number-Recognition)
 - 🌱 I'm currently learning: Deep Learning Systems such as YOLOv11
 
-<br>
 
+
+## Skills
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,html,php,cs,cpp,python,mysql,postgresql" />
   <br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,unity,aws,figma" />
 </p>
+
+## Stats
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Graves067&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Graves067's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Graves067&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Graves067's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Graves067&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Graves067's Most Used Languages" />
+</div>
+<hr>
 
 <hr>
 <!--
