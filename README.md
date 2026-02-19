@@ -1,8 +1,6 @@
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=Graves067&color=blue&style=flat" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=Graves067&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Visitor's Count" />
 </div>
-
 <!--
 
 Here are some ideas to get you started:
