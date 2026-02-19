@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=Graves067&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Visitor's Count" />
 </div>
 
+<div align="center">
+  <img src="Images\BUNOY.png" alt="header" />
+</div>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Greetings!+I+am+Cameron!" />
 </h1>
