@@ -24,7 +24,7 @@
 ## Stats
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Graves067&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Graves067's GitHub Stats" />
+  [![Graves067's GitHub stats](https://github-readme-stats.vercel.app/api?username=Graves067)](https://github.com/Graves067/github-readme-stats)
   <img width=390 src="https://streak-stats.demolab.com/?user=Graves067&theme=transparent&border_radius=10&locale=en" alt="Graves067's Streak" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Graves067&theme=tokyonight&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Graves067's Most Used Languages" />
 </div>
