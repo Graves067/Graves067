@@ -3,19 +3,19 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Greetings! I am Cameron!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Greetings!+I+am+Cameron!" />
 </h1>
 
-### Fourth Year Computer Science Student at UBC-O, Passionate about Learning, Designing and Developing software for everyday use. I am consistenly seeking to not only improve my current code knowledge base but explore new skills and languages
+### Fourth Year Computer Science Student at UBC-O, Passionate about Learning, Designing and Developing software for everyday use. I am consistently seeking to not only improve my current code knowledge base but explore new skills and languages
 
-- 🔭 I'm currently working on [Dice-Number-Recognition]([https://github.com/Graves067/RepoName](https://github.com/Graves067/Dice-Number-Recognition))
+- 🔭 I'm currently working on [Dice-Number-Recognition](https://github.com/Graves067/Dice-Number-Recognition)
 - 🌱 I'm currently learning: Deep Learning Systems such as YOLOv11
-
 
 <br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,html,php,cs,cpp,python,mysql,postgresql" />
+  <br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,unity,aws,figma" />
 </p>
 
