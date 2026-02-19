@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="Images\BUNOY.png" alt="header" />
+  <img width="600" src="Images\BUNOY.png" alt="header" />
 </div>
 
 <h1 align="center">
